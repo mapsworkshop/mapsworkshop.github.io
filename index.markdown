@@ -4,5 +4,3 @@
 
 layout: default
 ---
-
-### MAPS Workshop, FSE 2023
