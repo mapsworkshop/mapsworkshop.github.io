@@ -21,8 +21,7 @@ The symposium welcomes papers on all aspects that combine programming languages 
 
 ## Format
 
-Submissions must be in English. Papers should be in PDF and format with 4 to up to 8 pages in standard two-column SIGSOFT format including figures and tables but excluding references. The submissions will be judged based on the merit of the ideas rather than the length. Submissions must
-be made through the online submission site.
+Submissions must be in English, and papers should be in PDF and format with 4 to up to 8 pages. All the submission should follow the [ESEC/FSE 2023 Format and Submission Guideline](https://2023.esec-fse.org/track/fse-2023-how-to-submit). The submissions will be judged based on the merit of the ideas rather than the length. Submissions must be made through the online submission site.
 
 MAPS 2023 is __non-archival__ and thus __dual submission__ is allowed where permitted by third parties.  Authors will have the option to decide whether having their final paper accessible from the workshop website or not.
 
