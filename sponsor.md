@@ -4,10 +4,12 @@ description: The 7th Annual Symposium on Machine Programming</br>Co-located with
 title: Speakers - MAPS 2023
 ---
 
-## Keynote Speakers
+### MAPS 2023 Workshop is fully sponsored by National Science Foundation.
 
-TBA
+<p align="center">
+  <a href="https://www.nsf.gov/">
+    <img src="./nsf_logo.jpg" alt="Sponsor Logo" width="200">
+  </a>
+</p>
 
-## Panelist
 
-TBA
