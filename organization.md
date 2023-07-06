@@ -16,6 +16,7 @@ title: Organization - MAPS 2023
   text-align: center;
   margin-bottom: 30px; /* Optional: Adjust the margin between committee members */
   margin-right: 30px;
+  margin-top: 0;
 }
 
 
