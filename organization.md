@@ -67,7 +67,8 @@ title: Organization - MAPS 2023
     </div>
   </div>
   <div class="committee-member">
-    <img src="/profile_photos/vikram.jpg" alt="Vikram Nitin">
+    ![vikram](/profile_photos/vikram.jpg){: width="250" }
+<!--     <img src="/profile_photos/vikram.jpg" alt="Vikram Nitin"> -->
     <div class="member-details">
       <h3>Vikram Nitin</h3>
       <p>Columbia University<br>Web Co-chair</p>
