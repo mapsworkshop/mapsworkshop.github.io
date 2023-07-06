@@ -4,14 +4,78 @@ description: The 7th Annual Symposium on Machine Programming</br>Co-located with
 title: Organization - MAPS 2023
 ---
 
+<style type="text/css" media="screen">
+.committee-row {
+  display: inline-block;
+  vertical-align: center;
+}
+
+.committee-member {
+  width: 23.33%; /* Adjust this value as needed */
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 30px; /* Optional: Adjust the margin between committee members */
+  margin-right: 30px;
+}
+
+
+.member-details {
+  margin-top: 10px; /* Optional: Adjust the margin between the image and member details */
+}
+
+</style>
+
 ## Organizing Committee
 
-TBA.
+<div class="committee-row">
+  <div class="committee-member">
+    <img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang">
+    <div class="member-details">
+      <h3>Tianyi Zhang</h3>
+      <p>Purdue University<br>General Chair</p>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="/profile_photos/ray.jpg" alt="Baishakhi Ray">
+    <div class="member-details">
+      <h3>Baishakhi Ray</h3>
+      <p>Columbia University<br>Program Chair</p>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="/profile_photos/justin.jpg" alt="Justin Gottschlich">
+    <div class="member-details">
+      <h3>Justin Gottschlich</h3>
+      <p>Merly Inc. / Stanford University<br>Steering Committee Chair</p>
+    </div>
+  </div>
+</div>
+
+<div class="committee-row">
+  <div class="committee-member">
+    <img src="/profile_photos/charles.jpg" alt="Charles Sutton">
+    <div class="member-details">
+      <h3>Charles Sutton</h3>
+      <p>Google</p>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="/profile_photos/yangruibo.jpg" alt="Yangruibo Ding">
+    <div class="member-details">
+      <h3>Yangruibo Ding</h3>
+      <p>Columbia University<br>Web Co-chair</p>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="/path/to/photo6.jpg" alt="Vikram Nitin">
+    <div class="member-details">
+      <h3>Vikram Nitin</h3>
+      <p>Columbia University<br>Web Co-chair</p>
+    </div>
+  </div>
+</div>
+
 
 ## Program Committee
-
-TBA.
-
-## Student Volunteer
 
 TBA.

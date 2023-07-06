@@ -6,11 +6,14 @@ title: Call For Papers - MAPS 2023
 
 ## Topics
 
-The symposium welcomes papers on all aspects that combine programming languages and machine learning, including (and not limited to):
+The symposium welcomes papers on all aspects that combine software engineering, programming languages, and machine learning, including (and not limited to):
 
 - Machine learning methods trained over source code, including applications to software development tools and program synthesis.
 - Application of machine learning to compilation and run-time scheduling.
 - Collaborative human/computer programming (i.e., conversational programming).
+- Empirical studies on different aspects of large language models for code
+- User studies and usability analysis of AI-based programming tools
+- User interface and interaction design for AI-based programming tools
 - Deterministic and stochastic program synthesis.
 - Infrastructure and techniques for mining and analyzing large code bases.
 - Interoperability between machine learning frameworks and existing code bases.
