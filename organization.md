@@ -23,7 +23,7 @@ img {
   height: 200px;
 }
 
-table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;}
+table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23.33%}
 
 .member-details {
   margin-top: 10px; /* Optional: Adjust the margin between the image and member details */
@@ -37,30 +37,36 @@ table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;}
   <tr>
     <td><center><img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang" class="profile-photo"></center></td>
     <td><center><img src="/profile_photos/ray.jpg" alt="Baishakhi Ray" class="profile-photo"></center></td>
-    <td><center><img src="/profile_photos/justin.jpg" alt="Justin Gottschlich" class="profile-photo"></center></td>
   </tr>
   <tr>
     <td><center><h3>Tianyi Zhang</h3></center></td>
     <td><center><h3>Baishakhi Ray</h3></center></td>
-    <td><center><h3>Justin Gottschlich</h3></center></td>
   </tr>
   <tr>
     <td><center><p>Purdue University<br>General Chair</p></center></td>
     <td><center><p>Columbia University<br>Program Chair</p></center></td>
-    <td><center><p>Merly Inc./Stanford University<br>Steering Committee Chair</p></center></td>
   </tr>
   <tr>
+    <td><center><img src="/profile_photos/justin.jpg" alt="Justin Gottschlich" class="profile-photo"></center></td>
     <td><center><img src="/profile_photos/charles.jpg" alt="Charles Sutton" class="profile-photo"></center></td>
+  </tr>
+  <tr>
+    <td><center><h3>Justin Gottschlich</h3></center></td>
+    <td><center><h3>Charles Sutton</h3></center></td>
+  </tr>
+  <tr>
+    <td><center><p>Merly Inc./Stanford University<br>Steering Committee Co-Chair</p></center></td>
+    <td><center><p>Google<br>Steering Committee Co-Chair</p></center></td>
+  </tr>
+  <tr>
     <td><center><img src="/profile_photos/yangruibo.jpg" alt="Yangruibo Ding" class="profile-photo"></center></td>
     <td><center><img src="/profile_photos/vikram.jpg" alt="Vikram Nitin" class="profile-photo"></center></td>
   </tr>
   <tr>
-    <td><center><h3>Charles Sutton</h3></center></td>
     <td><center><h3>Yangruibo Ding</h3></center></td>
     <td><center><h3>Vikram Nitin</h3></center></td>
   </tr>
   <tr>
-    <td><center><p>Google</p></center></td>
     <td><center><p>Columbia University<br>Web Co-chair</p></center></td>
     <td><center><p>Columbia University<br>Web Co-chair</p></center></td>
   </tr>
