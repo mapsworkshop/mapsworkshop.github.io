@@ -19,6 +19,11 @@ title: Organization - MAPS 2023
   margin-top: 0;
 }
 
+img {
+  height: 200px;
+}
+
+table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;}
 
 .member-details {
   margin-top: 10px; /* Optional: Adjust the margin between the image and member details */
@@ -28,7 +33,47 @@ title: Organization - MAPS 2023
 
 ## Organizing Committee
 
-<div class="committee-row">
+<table>
+  <tr>
+    <td><img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang" class="profile-photo"></td>
+    <td><img src="/profile_photos/ray.jpg" alt="Baishakhi Ray" class="profile-photo"></td>
+    <td><img src="/profile_photos/justin.jpg" alt="Justin Gottschlich" class="profile-photo"></td>
+  </tr>
+  <tr>
+    <td><center><h3>Tianyi Zhang</h3></center></td>
+    <td><center><h3>Baishakhi Ray</h3></center></td>
+    <td><center><h3>Justin Gottschlich</h3></center></td>
+  </tr>
+  <tr>
+    <td><center><p>Purdue University<br>General Chair</p></center></td>
+    <td><center><p>Columbia University<br>Program Chair</p></center></td>
+    <td><center><p>Merly Inc./Stanford University<br>Steering Committee Chair</p></center></td>
+  </tr>
+  <tr>
+    <td><img src="/profile_photos/charles.jpg" alt="Charles Sutton" class="profile-photo"></td>
+    <td><img src="/profile_photos/yangruibo.jpg" alt="Yangruibo Ding" class="profile-photo"></td>
+    <td><img src="/profile_photos/vikram.jpg" alt="Vikram Nitin" class="profile-photo"></td>
+  </tr>
+  <tr>
+    <td><center><h3>Charles Sutton</h3></center></td>
+    <td><center><h3>Yangruibo Ding</h3></center></td>
+    <td><center><h3>Vikram Nitin</h3></center></td>
+  </tr>
+  <tr>
+    <td><center><p>Google</p></center></td>
+    <td><center><p>Columbia University<br>Web Co-chair</p></center></td>
+    <td><center><p>Columbia University<br>Web Co-chair</p></center></td>
+  </tr>
+</table>
+
+<!--
+![](/profile_photos/tianyi_zhang.jpg) | ![](/profile_photos/ray.jpg) |
+:-------------------------:|:-------------------------:
+Tianyi Zhang <br> Purdue University <br> General Chair  |  Baishakhi Ray  |  Justin Gottschlich
+ -->
+
+
+<!-- <div class="committee-row">
   <div class="committee-member">
     <img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang">
     <div class="member-details">
@@ -74,7 +119,7 @@ title: Organization - MAPS 2023
       <p>Columbia University<br>Web Co-chair</p>
     </div>
   </div>
-</div>
+</div> -->
 
 
 ## Program Committee
