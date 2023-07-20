@@ -20,14 +20,10 @@ title: Organization - MAPS 2023
 }
 
 img {
-  height: 200px;
+  width: 60%;
 }
 
 table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23.33%}
-
-.member-details {
-  margin-top: 10px; /* Optional: Adjust the margin between the image and member details */
-}
 
 </style>
 
@@ -72,60 +68,6 @@ table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23
   </tr>
 </table>
 
-<!--
-![](/profile_photos/tianyi_zhang.jpg) | ![](/profile_photos/ray.jpg) |
-:-------------------------:|:-------------------------:
-Tianyi Zhang <br> Purdue University <br> General Chair  |  Baishakhi Ray  |  Justin Gottschlich
- -->
-
-
-<!-- <div class="committee-row">
-  <div class="committee-member">
-    <img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang">
-    <div class="member-details">
-      <h3>Tianyi Zhang</h3>
-      <p>Purdue University<br>General Chair</p>
-    </div>
-  </div>
-  <div class="committee-member">
-    <img src="/profile_photos/ray.jpg" alt="Baishakhi Ray">
-    <div class="member-details">
-      <h3>Baishakhi Ray</h3>
-      <p>Columbia University<br>Program Chair</p>
-    </div>
-  </div>
-  <div class="committee-member">
-    <img src="/profile_photos/justin.jpg" alt="Justin Gottschlich">
-    <div class="member-details">
-      <h3>Justin Gottschlich</h3>
-      <p>Merly Inc. / Stanford University<br>Steering Committee Chair</p>
-    </div>
-  </div>
-</div>
-
-<div class="committee-row">
-  <div class="committee-member">
-    <img src="/profile_photos/charles.jpg" alt="Charles Sutton">
-    <div class="member-details">
-      <h3>Charles Sutton</h3>
-      <p>Google</p>
-    </div>
-  </div>
-  <div class="committee-member">
-    <img src="/profile_photos/yangruibo.jpg" alt="Yangruibo Ding">
-    <div class="member-details">
-      <h3>Yangruibo Ding</h3>
-      <p>Columbia University<br>Web Co-chair</p>
-    </div>
-  </div>
-  <div class="committee-member">
-    <img src="/profile_photos/vikram.jpg" alt="Vikram Nitin">
-    <div class="member-details">
-      <h3>Vikram Nitin</h3>
-      <p>Columbia University<br>Web Co-chair</p>
-    </div>
-  </div>
-</div> -->
 
 
 ## Program Committee
