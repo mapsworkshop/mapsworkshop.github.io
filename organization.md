@@ -6,7 +6,7 @@ title: Organization - MAPS 2023
 
 <style type="text/css" media="screen">
 img {
-  width: 45%;
+  height: 160px;
 }
 
 td {border: none !important; cellspacing: 0; cellpadding: 0; width: 23.33%;}
@@ -61,8 +61,8 @@ tr {height: 0;}
 
 <table>
   <tr class="photo-row">
-    <td><center><img src="/profile_photos/blank.png" alt="Aditya Kanade"></center></td>
-    <td><center><img src="/profile_photos/blank.png" alt="Elena Glassman"></center></td>
+    <td><center><img src="/profile_photos/aditya_kanade.jpg" alt="Aditya Kanade"></center></td>
+    <td><center><img src="/profile_photos/elena_glassman.jpg" alt="Elena Glassman"></center></td>
   </tr>
   <tr class="text-row">
     <td><h3><center>Aditya Kanade</center></h3></td>
@@ -73,8 +73,8 @@ tr {height: 0;}
     <td><center><p>Harvard University</p></center></td>
   </tr>
   <tr class="photo-row">
-    <td><center><img src="/profile_photos/blank.png" alt="Elizabeth Dinella"></center></td>
-    <td><center><img src="/profile_photos/blank.png" alt="Foutse Khomh"></center></td>
+    <td><center><img src="/profile_photos/elizabeth_dinella.jpg" alt="Elizabeth Dinella"></center></td>
+    <td><center><img src="/profile_photos/foutse_khomh.jpg" alt="Foutse Khomh"></center></td>
   </tr>
   <tr class="text-row">
     <td><h3><center>Elizabeth Dinella</center></h3></td>
@@ -85,8 +85,8 @@ tr {height: 0;}
     <td><center><p>École Polytechnique de Montréal</p></center></td>
   </tr>
   <tr class="photo-row">
-    <td><center><img src="/profile_photos/blank.png" alt="Kexin Pei"></center></td>
-    <td><center><img src="/profile_photos/blank.png" alt="Milos Gligoric"></center></td>
+    <td><center><img src="/profile_photos/kexin_pei.jpg" alt="Kexin Pei"></center></td>
+    <td><center><img src="/profile_photos/milos_gligoric.png" alt="Milos Gligoric"></center></td>
   </tr>
   <tr class="text-row">
     <td><h3><center>Kexin Pei</center></h3></td>
@@ -97,8 +97,8 @@ tr {height: 0;}
     <td><center><p>The University of Texas at Austin</p></center></td>
   </tr>
   <tr class="photo-row">
-    <td><center><img src="/profile_photos/blank.png" alt="Saikat Chakraborty"></center></td>
-    <td><center><img src="/profile_photos/blank.png" alt="Shuvendu Lahiri"></center></td>
+    <td><center><img src="/profile_photos/saikat_chakraborty.png" alt="Saikat Chakraborty"></center></td>
+    <td><center><img src="/profile_photos/shuvendu_lahiri.jpg" alt="Shuvendu Lahiri"></center></td>
   </tr>
   <tr class="text-row">
     <td><h3><center>Saikat Chakraborty</center></h3></td>
@@ -109,8 +109,8 @@ tr {height: 0;}
     <td><center><p>Microsoft Research</p></center></td>
   </tr>
   <tr class="photo-row">
-    <td><center><img src="/profile_photos/blank.png" alt="Nadia Polikarpova"></center></td>
-    <td><center><img src="/profile_photos/blank.png" alt="Vincent Hellendoorn"></center></td>
+    <td><center><img src="/profile_photos/nadia_polikarpova.jpg" alt="Nadia Polikarpova"></center></td>
+    <td><center><img src="/profile_photos/vincent_hellendoorn.jpg" alt="Vincent Hellendoorn"></center></td>
   </tr>
   <tr class="text-row">
     <td><h3><center>Nadia Polikarpova</center></h3></td>
@@ -121,8 +121,8 @@ tr {height: 0;}
     <td><center><p>Carnegie Mellon University</p></center></td>
   </tr>
   <tr>
-    <td><center><img src="/profile_photos/blank.png" alt="Xinyu Wang"></center></td>
-    <td><center><img src="/profile_photos/blank.png" alt="Xinyun Chen"></center></td>
+    <td><center><img src="/profile_photos/xinyu_wang.jpg" alt="Xinyu Wang"></center></td>
+    <td><center><img src="/profile_photos/xinyun_chen.jpg" alt="Xinyun Chen"></center></td>
   </tr>
   <tr class="text-row">
     <td><h3><center>Xinyu Wang</center></h3></td>
