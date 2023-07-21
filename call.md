@@ -22,9 +22,9 @@ The symposium welcomes papers on all aspects that combine software engineering, 
 - Programming language support and implementation of machine learning frameworks
 - Neurosymbolic and intentional programming
 
-## Format
+## How to Submit
 
-Submissions must be in English, and papers should be in PDF and format with 4 to up to 8 pages. All the submission should follow the [ESEC/FSE 2023 Format and Submission Guideline](https://2023.esec-fse.org/track/fse-2023-how-to-submit). The submissions will be judged based on the merit of the ideas rather than the length. Submissions must be made through the online submission site.
+All submissions must be made through [HotCRP](https://maps2023.hotcrp.com/). Submissions must be in English, and papers should be in PDF and format with 4 to up to 8 pages. All the submission should follow the [ESEC/FSE 2023 Format and Submission Guideline](https://2023.esec-fse.org/track/fse-2023-how-to-submit). The submissions will be judged based on the merit of the ideas rather than the length. Submissions must be made through the online submission site.
 
 MAPS 2023 is __non-archival__ and thus __dual submission__ is allowed where permitted by third parties.  Authors will have the option to decide whether having their final paper accessible from the workshop website or not.
 
