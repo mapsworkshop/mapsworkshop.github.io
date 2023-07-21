@@ -5,25 +5,11 @@ title: Organization - MAPS 2023
 ---
 
 <style type="text/css" media="screen">
-.committee-row {
-  display: inline-block;
-  vertical-align: center;
-}
-
-.committee-member {
-  width: 23.33%; /* Adjust this value as needed */
-  display: inline-block;
-  text-align: center;
-  margin-bottom: 30px; /* Optional: Adjust the margin between committee members */
-  margin-right: 30px;
-  margin-top: 0;
-}
-
 img {
-  width: 60%;
+  width: 65%;
 }
 
-table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23.33%}
+table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0; width: 23.33%;}
 
 </style>
 
@@ -31,8 +17,8 @@ table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23
 
 <table>
   <tr>
-    <td><center><img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang" class="profile-photo"></center></td>
-    <td><center><img src="/profile_photos/ray.jpg" alt="Baishakhi Ray" class="profile-photo"></center></td>
+    <td><center><img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang"></center></td>
+    <td><center><img src="/profile_photos/ray.jpg" alt="Baishakhi Ray"></center></td>
   </tr>
   <tr>
     <td><center><h3>Tianyi Zhang</h3></center></td>
@@ -43,8 +29,8 @@ table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23
     <td><center><p>Columbia University<br>Program Chair</p></center></td>
   </tr>
   <tr>
-    <td><center><img src="/profile_photos/justin.jpg" alt="Justin Gottschlich" class="profile-photo"></center></td>
-    <td><center><img src="/profile_photos/charles.jpg" alt="Charles Sutton" class="profile-photo"></center></td>
+    <td><center><img src="/profile_photos/justin.jpg" alt="Justin Gottschlich"></center></td>
+    <td><center><img src="/profile_photos/charles.jpg" alt="Charles Sutton"></center></td>
   </tr>
   <tr>
     <td><center><h3>Justin Gottschlich</h3></center></td>
@@ -55,8 +41,8 @@ table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23
     <td><center><p>Google<br>Steering Committee Co-Chair</p></center></td>
   </tr>
   <tr>
-    <td><center><img src="/profile_photos/yangruibo.jpg" alt="Yangruibo Ding" class="profile-photo"></center></td>
-    <td><center><img src="/profile_photos/vikram.jpg" alt="Vikram Nitin" class="profile-photo"></center></td>
+    <td><center><img src="/profile_photos/yangruibo.jpg" alt="Yangruibo Ding"></center></td>
+    <td><center><img src="/profile_photos/vikram.jpg" alt="Vikram Nitin"></center></td>
   </tr>
   <tr>
     <td><center><h3>Yangruibo Ding</h3></center></td>
@@ -72,4 +58,54 @@ table, tr, td {border: none !important; cellspacing: 0; cellpadding: 0;width: 23
 
 ## Program Committee
 
-TBA.
+<table>
+  <tr>
+    <td><h3><center>Aditya Kanade</center></h3></td>
+    <td><h3><center>Elena Glassman</center></h3></td>
+    <td><h3><center>Elizabeth Dinella</center></h3></td>
+  </tr>
+  <tr>
+    <td><center>Microsoft Research, India</center></td>
+    <td><center>Harvard University</center></td>
+    <td><center>University of Pennsylvania</center></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><h3><center>Foutse Khomh</center></h3></td>
+    <td><h3><center>Kexin Pei</center></h3></td>
+    <td><h3><center>Milos Gligoric</center></h3></td>
+  </tr>
+  <tr>
+    <td><center>École Polytechnique de Montréal</center></td>
+    <td><center>University of Chicago</center></td>
+    <td><center>The University of Texas at Austin</center></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><h3><center>Nadia Polikarpova</center></h3></td>
+    <td><h3><center>Saikat Chakraborty</center></h3></td>
+    <td><h3><center>Shuvendu Lahiri</center></h3></td>
+  </tr>
+  <tr>
+    <td><center>UC San Diego</center></td>
+    <td><center>Microsoft Research</center></td>
+    <td><center>Microsoft Research</center></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><h3><center>Vincent Hellendoorn</center></h3></td>
+    <td><h3><center>Xinyu Wang</center></h3></td>
+    <td><h3><center>Xinyun Chen</center></h3></td>
+  </tr>
+  <tr>
+    <td><center>Carnegie Mellon University</center></td>
+    <td><center>University of Michigan</center></td>
+    <td><center>Google Brain</center></td>
+  </tr>
+</table>
