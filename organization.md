@@ -93,7 +93,7 @@ tr {height: 0;}
     <td><h3><center>Milos Gligoric</center></h3></td>
   </tr>
   <tr class="text-row">
-    <td><center><p>University of Chicago</p></center></td>
+    <td><center><p>Columbia University/University of Chicago</p></center></td>
     <td><center><p>The University of Texas at Austin</p></center></td>
   </tr>
   <tr class="photo-row">
@@ -118,7 +118,7 @@ tr {height: 0;}
   </tr>
   <tr class="text-row">
     <td><center><p>UC San Diego</p></center></td>
-    <td><center><p>Carnegie Mellon University</p></center></td>
+    <td><center><p>Google</p></center></td>
   </tr>
   <tr>
     <td><center><img src="/profile_photos/xinyu_wang.jpg" alt="Xinyu Wang"></center></td>
@@ -130,6 +130,27 @@ tr {height: 0;}
   </tr>
   <tr class="text-row">
     <td><center><p>University of Michigan</p></center></td>
-    <td><center><p>Google Brain</p></center></td>
+    <td><center><p>Google DeepMind</p></center></td>
+  </tr>
+  <tr>
+    <td><center><img src="/profile_photos/joanna_cs_Santos.jpeg" alt="Joanna C. S. Santos"></center></td>
+    <td><center><img src="/profile_photos/shiqi_wang.jpeg" alt="Shiqi Wang"></center></td>
+  </tr>
+  <tr class="text-row">
+    <td><h3><center>Joanna C. S. Santos</center></h3></td>
+    <td><h3><center>Shiqi Wang</center></h3></td>
+  </tr>
+  <tr class="text-row">
+    <td><center><p>University of Notre Dame</p></center></td>
+    <td><center><p>Amazon</p></center></td>
+  </tr>
+  <tr>
+    <td><center><img src="/profile_photos/alberto_bacchelli.jpeg" alt="Alberto Bacchelli"></center></td>
+  </tr>
+  <tr class="text-row">
+    <td><h3><center>Alberto Bacchelli</center></h3></td>
+  </tr>
+  <tr class="text-row">
+    <td><center><p>University of Zurich</p></center></td>
   </tr>
 </table>
