@@ -18,7 +18,7 @@ tr {height: 0;}
 
 <table>
   <tr class="photo-row">
-    <td><center><img src="/profile_photos/tianyi_zhang.jpg" alt="Tianyi Zhang"></center></td>
+    <td><center><img src="/profile_photos/tianyi_zhang.png" alt="Tianyi Zhang"></center></td>
     <td><center><img src="/profile_photos/ray.jpg" alt="Baishakhi Ray"></center></td>
   </tr>
   <tr class="text-row">
