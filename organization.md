@@ -153,4 +153,13 @@ tr {height: 0;}
   <tr class="text-row">
     <td><center><p>University of Zurich</p></center></td>
   </tr>
+  <tr>
+    <td><center><img src="/profile_photos/eran_yahav.jpeg" alt="Eran Yahav"></center></td>
+  </tr>
+  <tr class="text-row">
+    <td><h3><center>Eran Yahav</center></h3></td>
+  </tr>
+  <tr class="text-row">
+    <td><center><p>Technion</p></center></td>
+  </tr>
 </table>
