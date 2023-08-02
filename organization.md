@@ -146,20 +146,14 @@ tr {height: 0;}
   </tr>
   <tr>
     <td><center><img src="/profile_photos/alberto_bacchelli.jpeg" alt="Alberto Bacchelli"></center></td>
-  </tr>
-  <tr class="text-row">
-    <td><h3><center>Alberto Bacchelli</center></h3></td>
-  </tr>
-  <tr class="text-row">
-    <td><center><p>University of Zurich</p></center></td>
-  </tr>
-  <tr>
     <td><center><img src="/profile_photos/eran_yahav.jpeg" alt="Eran Yahav"></center></td>
   </tr>
   <tr class="text-row">
+    <td><h3><center>Alberto Bacchelli</center></h3></td>
     <td><h3><center>Eran Yahav</center></h3></td>
   </tr>
   <tr class="text-row">
+    <td><center><p>University of Zurich</p></center></td>
     <td><center><p>Technion</p></center></td>
   </tr>
 </table>
