@@ -31,5 +31,5 @@ MAPS 2023 is __non-archival__ and thus __dual submission__ is allowed where perm
 ## Important Dates
 
 - Submission Deadline: August 15, 2023
-- Author Notification: __TBD__
+- Author Notification: September 22, 2023
 - Camera-Ready Deadline: __TBD__
