@@ -28,8 +28,8 @@ All submissions must be made through [HotCRP](https://maps2023.hotcrp.com/). Sub
 
 MAPS 2023 is __non-archival__ and thus __dual submission__ is allowed where permitted by third parties.  Authors will have the option to decide whether having their final paper accessible from the workshop website or not.
 
-## Important Dates
+## Important Dates -- Time Zone: AoE (UTC-12h)
 
-- Submission Deadline: August 15, 2023
+- Submission Deadline: August 20, 2023
 - Author Notification: September 22, 2023
 - Camera-Ready Deadline: __TBD__
