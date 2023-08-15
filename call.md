@@ -6,6 +6,8 @@ title: Call For Papers - MAPS 2023
 
 ## Topics
 
+__Note - Deadline for submission extended to Aug 20th. See below__
+
 The symposium welcomes papers on all aspects that combine software engineering, programming languages, and machine learning, including (and not limited to):
 
 - Machine learning methods trained over source code, including applications to software development tools and program synthesis.
