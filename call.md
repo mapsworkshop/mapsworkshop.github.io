@@ -35,3 +35,7 @@ MAPS 2023 is __non-archival__ and thus __dual submission__ is allowed where perm
 - Submission Deadline: August 20, 2023
 - Author Notification: September 22, 2023
 - Camera-Ready Deadline: __TBD__
+
+## Travel Support
+
+MAPS 2023 Workshop provides the travel support for paticipants through NSF travel awards. See [Travel Support](travel.md) for details

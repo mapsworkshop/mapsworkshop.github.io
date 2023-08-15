@@ -17,4 +17,8 @@ The workshop aims to achieve multiple objectives by bringing together researcher
 
 To achieve these objectives, the workshop will feature a combination of keynote talks, research paper presentations, panel discussions, and open discussions. The workshop will provide ample opportunities for researchers to interact, discuss, and collaborate on new research directions. We believe that this workshop will significantly contribute to the advancement of machine learning models for programming and will foster cross-disciplinary research between programming languages, software engineering, and machine-learning communities.
 
+## Travel Support
+
+MAPS 2023 Workshop provides the travel support for paticipants through NSF travel awards. See [Travel Support](travel.md) for details
+
 
