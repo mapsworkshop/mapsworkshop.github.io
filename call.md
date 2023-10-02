@@ -33,7 +33,7 @@ MAPS 2023 is __non-archival__ and thus __dual submission__ is allowed where perm
 ## Important Dates -- Time Zone: AoE (UTC-12h)
 
 - Submission Deadline: August 20, 2023
-- Author Notification: September 29, 2023 (Previous notification date, September 22, has been updated)
+- Author Notification: October 2, 2023 (Previous notification date, September 22, has been updated)
 - Camera-Ready Deadline: __TBD__
 
 ## Travel Support
