@@ -1,18 +1,20 @@
 ## NSF Support for US-based Participants
 
-Financial support for attending MAPS 2023 Workshop is expected to be available for student researchers via the NSF travel awards. Recipients must be __students at U.S.__ institutions. Priorities will be given to:
+MAPS Workshop provides travel support for students and researchers to the MAPS workshop attendees. It will cover airfare, transportation, lodging for two days, and registrations for the MAPS workshop.
+
+Recipients must be __associated with U.S. institutions__ institutions. Priorities will be given to:
 
 - Students whose participation improves the diversity of computing research.
 
-- Students presenting papers accepted to the MAPS Workshop.
-
 - Applicants who could not attend without a travel award.
+
+- Authors of papers accepted to MAPS.
 
 - U.S. citizens and permanent residents.
 
 ## Travel Award Application
 
-We will release the application details after the author notification.
+Please apply through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeW6n9l8PJ7utCpOj_m7GQnHrRSLkNXqYpJ8P7XSBdq_txKxA/viewform). The application deadline is Nov 10. We expect to announce the recipients on Nov 15. If you have any questions, please email Tianyi Zhang (tianyi@purdue.edu) or Baishakhi Ray (rayb@cs.columbia.edu).
 
 ## Acknowledgment
 
