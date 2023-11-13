@@ -54,7 +54,7 @@ tr {height: 0;}
   	<td><hr></td>
   </tr>
    <tr class="title-row">
-	<td><h3>Do Code Generation Models Think Like Us? An Empirical Study on Attention Alignment between Large Language Models and Human Programmers</h3>
+	<td><h3>An Empirical Study of Code Generation Errors made by Large Language Models</h3>
   	<div class="authors">Da Song, Zijie Zhou, Zhijie Wang, Yuheng Huang, Shengmai Chen, Bonan Kou, Lei Ma, Tianyi Zhang</div></td>
   </tr>
   <tr class="rule">
