@@ -13,9 +13,9 @@ title: MAPS 2023
 
 ### __[9:30 AM  - 10:30 AM]__  
 
-__Keynote 1: Vincent Hellendoorn__
+### Keynote 1: Topic coming soon!
 
-Topic: Coming soon!
+__Speaker:__ [Vincent Hellendoorn](https://vhellendoorn.github.io/)
 
 
 ### __[10:30 AM -11:00 AM]__
@@ -46,9 +46,9 @@ John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao
 
 ### __[1:30 PM -2:30 PM]__
 
-__Keynote 2: Kevin Ellis__
+### Keynote 2: Non-canonical Tasks for Synthesis and Learning
 
-Topic: Non-canonical Tasks for Synthesis and Learning
+__Speaker:__ [Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)
 
 ### __[2:30 PM -3:30 PM]__  
 
