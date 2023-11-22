@@ -28,21 +28,19 @@ __Speaker:__ [Vincent Hellendoorn](https://vhellendoorn.github.io/)
 
 __Symmetry-Preserving Progr AM  Representations for Learning Code Semantics.__
 
-
 Kexin Pei, Weichen Li, Qirui Jin, Shuyang Liu, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana
 
+__InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback__
 
-__A Preliminary Evaluation of LLM-Based Fault Localization__
-
-Sungmin Kang, Gabin An, Shin Yoo
+John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao
 
 __Do Code Generation Models Think Like Us? An Empirical Study on Attention Alignment between Large Language Models and Human Programmers__
 
 Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang
 
-__InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback__
+__Predicting the Success of x86-64 Binary Rewriters__
 
-John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao
+Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry
 
 ### __[1:30 PM -2:30 PM]__
 
@@ -66,9 +64,9 @@ __Efficient Composition of Data Management and Machine Learning Systems via Comm
 
 Supun Madusha Bandara Abeysinghe Tennakoon Mudiyanselage, Fei Wang, Gregory Essertel, Tiark Rompf
 
-__Predicting the Success of x86-64 Binary Rewriters__
+__A Preliminary Evaluation of LLM-Based Fault Localization__
 
-Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry
+Sungmin Kang, Gabin An, Shin Yoo
 
 ### __[3:30 PM -4:00 PM]__
 
