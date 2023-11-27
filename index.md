@@ -13,7 +13,7 @@ title: MAPS 2023
 
 ### __[9:30 AM  - 10:30 AM]__  
 
-### Keynote 1: Topic coming soon!
+### Keynote 1: Beyond Code Completion: Towards the Next Generation of AI for SE
 
 __Speaker:__ [Vincent Hellendoorn](https://vhellendoorn.github.io/)
 
