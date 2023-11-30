@@ -33,7 +33,7 @@ tr {height: 0;}
   	<td><hr></td>
   </tr>
   <tr class="title-row">
-	<td><h3>Predicting the Success of x86-64 Binary Rewriters [<a href="assets/predicting_the_success_of_x86_64_binary_rewriters_camera_ready1.pdf">PDF</a>]</h3>
+	<td><h3><a href="assets/predicting_the_success_of_x86_64_binary_rewriters_camera_ready1.pdf">Predicting the Success of x86-64 Binary Rewriters</a></h3>
   	<div class="authors">Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry</div></td>
   </tr>
   <tr class="rule">

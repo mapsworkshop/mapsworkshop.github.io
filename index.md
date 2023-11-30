@@ -38,7 +38,7 @@ __Do Code Generation Models Think Like Us? An Empirical Study on Attention Align
 
 Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang
 
-__Predicting the Success of x86-64 Binary Rewriters__ [[PDF](assets/predicting_the_success_of_x86_64_binary_rewriters_camera_ready1.pdf)]
+[__Predicting the Success of x86-64 Binary Rewriters__](assets/predicting_the_success_of_x86_64_binary_rewriters_camera_ready1.pdf)
 
 Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry
 
