@@ -11,7 +11,7 @@ title: MAPS 2023
 
 ## __Schedule: Dec. 3, 2023__
 
-### __[9:30 AM  - 10:30 AM]__  
+### __[9:30 AM  - 10:30 AM]__
 
 ### Keynote 1: Beyond Code Completion: Towards the Next Generation of AI for SE
 
@@ -22,7 +22,7 @@ __Speaker:__ [Vincent Hellendoorn](https://vhellendoorn.github.io/)
 
 #### Coffee Break
 
-### __[11:00 AM -12:00 PM]__  
+### __[11:00 AM -12:00 PM]__
 
 ### Session 1
 
@@ -38,7 +38,7 @@ __Do Code Generation Models Think Like Us? An Empirical Study on Attention Align
 
 Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang
 
-__Predicting the Success of x86-64 Binary Rewriters__
+__Predicting the Success of x86-64 Binary Rewriters__ [[PDF](assets/predicting_the_success_of_x86_64_binary_rewriters_camera_ready1.pdf)]
 
 Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry
 
@@ -48,7 +48,7 @@ Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry
 
 __Speaker:__ [Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)
 
-### __[2:30 PM -3:30 PM]__  
+### __[2:30 PM -3:30 PM]__
 
 ### Session 2
 
@@ -72,7 +72,7 @@ Sungmin Kang, Gabin An, Shin Yoo
 
 ### Coffee Break
 
-### __[4:00 PM -5:00 PM]__  
+### __[4:00 PM -5:00 PM]__
 
 ### Discussion
 
