@@ -44,7 +44,7 @@ Akshay Sood, Keara Hill, Kimble Houck, Jonathan Dorn, Zak Fry
 
 ### __[1:30 PM -2:30 PM]__
 
-### Keynote 2: Non-canonical Tasks for Synthesis and Learning
+### Keynote 2: [Non-canonical Tasks for Synthesis and Learning](/assets/kevin_ellis_maps_23.pdf)
 
 __Speaker:__ [Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)
 

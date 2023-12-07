@@ -24,7 +24,7 @@ tr {height: 0;}
 
 ![Kevin Ellis](/profile_photos/Kevin_ellis_profile.jpeg)
 
-<b>Title:</b> Non-canonical Tasks for Synthesis and Learning
+<b>Title:</b> <a href="/assets/kevin_ellis_maps_23.pdf"> Non-canonical Tasks for Synthesis and Learning </a>
 <br><br>
 <b>Abstract:</b> The *canonical* synthesis task is to construct a correct program from a specification of intended program behavior. Learning methods have been very valuable at extending this paradigm, for instance to LLM-powered code completion in IDEs. This talk, however, discusses several tasks beyond the purview of canonical synthesis. This includes learning to predict whether a synthesizer should be trusted; using synthesis to generate programming problems (instead of using synthesis to solve programming problems); using synthesis to solve tasks in graphics and visual perception, and, time permitting, tasks in psychology and computational linguistics.
 
