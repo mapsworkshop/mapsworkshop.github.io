@@ -52,7 +52,7 @@ __Speaker:__ [Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)
 
 ### Session 2
 
-__Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models__
+[__Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models__](assets/clarifying_questions_jw_camera_ready.pdf)
 
 Jie JW Wu
 
