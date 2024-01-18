@@ -26,7 +26,7 @@ tr {height: 0;}
   	<td><hr></td>
   </tr>
   <tr class="title-row">
-  	<td><h3><a href="assets/clarifying_questions_jw_camera_ready.pdf">Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models</a></h3>
+  	<td><h3><a href="assets/clarifying_questions_jw_camera_ready.pdf">Large Language Models Should Ask Clarifying Questions to Increase Confidence in Generated Code</a></h3>
   	<div class="authors">Jie JW Wu</div></td>
   </tr>
   <tr class="rule">
