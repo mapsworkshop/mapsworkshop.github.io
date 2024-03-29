@@ -54,7 +54,7 @@ tr {height: 0;}
   	<td><hr></td>
   </tr>
    <tr class="title-row">
-	<td><h3><a href="assets/LLM_Code_Error_Analysis_MAPS2023_camera-ready.pdf">An Empirical Study of Code Generation Errors made by Large Language Models</h3>
+	<td><h3><a href="assets/LLM_Code_Error_Analysis_MAPS2023_camera-ready.pdf">An Empirical Study of Code Generation Errors made by Large Language Models</a></h3>
   	<div class="authors">Da Song, Zijie Zhou, Zhijie Wang, Yuheng Huang, Shengmai Chen, Bonan Kou, Lei Ma, Tianyi Zhang</div></td>
   </tr>
   <tr class="rule">
